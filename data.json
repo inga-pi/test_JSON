@@ -1,0 +1,42 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Jan Kowalski",
+        "age": 30,
+        "email": "jankowalski@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Alicja Lopez",
+        "age": 25,
+        "email": "alicja@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Kamil Warenko",
+        "age": 35,
+        "email": "kamil@gmail.com"
+      }
+    ],
+    "products": [
+      {
+        "id": 101,
+        "name": "Iphone 14",
+        "price": 4500,
+        "quantity": 10
+      },
+      {
+        "id": 102,
+        "name": "MACBOOK PRO 16",
+        "price": 10000,
+        "quantity": 20
+      },
+      {
+        "id": 103,
+        "name": "Samsung Galaxy S24 Ultra 12",
+        "price": 6000,
+        "quantity": 30
+      }
+    ]
+  }
